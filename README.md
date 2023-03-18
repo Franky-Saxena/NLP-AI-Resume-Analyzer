@@ -4,10 +4,11 @@
 This project will help all organizations which will hire there employees.
 
 This Streamlit App has two section:
-    ```
-    * First: is for Analyzing the Resume
-    * Admin
-    ```
+
+```
+* First: is for Analyzing the Resume
+* Admin
+```
 
 Through this app we will able to extract:
 * Basic info of the candidate.
